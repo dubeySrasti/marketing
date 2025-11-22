@@ -1,6 +1,5 @@
 :root {
   --themeColor: #7b61ff;
-  --backgroundColor: #1e1e1e;
   --primaryColor: #00ffab;
   --whiteColor: #ffffff;
   --subTextColor: #bcbcbc;
@@ -130,6 +129,11 @@ header {
 header img {
   width: 200px;
 }
+
+
+
+
+
 
 /* Hero */
 .hero {
